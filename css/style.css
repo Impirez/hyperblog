@@ -2,16 +2,14 @@
     margin: 0;
     padding: 0;
 }
-body{
-    flex-direction: column;
-    color:deeppink;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: aliceblue;
-}
 
-.cabeza{
-    display: flex;
-    justify-content: space-between;
-    background-color: aqua;
-    align-items: center;
+.container
+{
+    width: 500px;
+    height: 5000;
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 1cm;
+    text-align: center;
+    margin-top: 20px ;
 }
