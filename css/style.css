@@ -1,10 +1,11 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #cabecera{
+    
     display: flex;
     align-items: center;
     background-color: blue;
@@ -14,17 +15,17 @@
 #cabecera p{
     font-size: 30px;
     padding: 10px 1px 10px 10px;
-    color: white;
+    color: red;
 }
 
 #cabecera span{
-    color: white;
+    color: red;
     padding-right: 10px;
 }
 
 .container
 {
-    background-color: aquamarine;
+    background-color: beige;
     width: 500px;
     height: 5000;
     border: 1px solid black;
